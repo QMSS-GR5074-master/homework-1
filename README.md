@@ -1,10 +1,10 @@
-# homework 1 - git/GitHub and R Markdown
+# homework #1
 
 ## Instructions
 
 1. read __The Basics of GitHub__ section very closely
 2. complete all items on __your homework__ section (at the bottom of this page)
-3. when you are done with your final `push`, submit the link to this repo on Canvas
+3. when you are done with your final `push` to this repo, submit the link to this repo on Canvas
 
 # The Basics of GitHub
 
@@ -114,13 +114,15 @@ You can check out the GitHub Explore website at [github.com/explore](https://git
 
 1. `[15 pts]` Open a pull request on this repo and let your teaching team know that you’ve finished this __Basics of git and GitHub__ review.
 
+
+From this point onwards, use the [**World Happiness AI Model Share** model playground](https://www.modelshare.org/detail/model:1289) created for this class. In particular, rely on the instructions and starter code in the [**World Happiness Model Submission Guide** notebook](https://www.modelshare.org/notebooks/notebook:284) to load the correct train and tests sets, and to submit your model to the competition created for this class.
+
+
 2. Using a Jupyter notebook, write a **report** on World Happiness data with the following information:
 
-  * `[15 pts]` Explore bivariate results (Use visualizations!) -- Describe any relationships you see between particular features and the target variable
-  * `[15 pts]` Examine features that predict happiness categories using one or more models that allow for automatic feature selection. --  Explain any meaningful findings
-  * `[30 pts]` Run at least three prediction models to try to predict World Happiness well. -- Discuss which models performed better and point out relevant hyper-parameter values for successful models.
-  * `[10 pts]` Submit your best model to the leader board for the World Happiness AI Model Share competition.
-
-  You are welcome, but not required, to add any other country level features you would like to your dataset before using the data to complete your report. There are no length requirements for this notebook.
+  * `[15 pts]` Explore **bivariate results** (Use visualizations!) -- Describe any relationships you see between particular features and the target variable
+  * `[15 pts]` Examine **features that predict happiness categories** using one or more models that allow for automatic feature selection. --  Explain any meaningful findings
+  * `[30 pts]` Run at least **three prediction models** to try to predict World Happiness well. -- Discuss which models performed better and point out relevant hyper-parameter values for successful models.
+  * `[10 pts]` **Submit your best model** to the leader board for the **World Happiness AI Model Share** competition created for this class. Remember to use the instructions on the [**World Happiness Model Submission Guide** notebook](https://www.modelshare.org/notebooks/notebook:284), including the specific code to load your train and tests sets.
 
 3. `[15 pts]` `push` your Jupyter notebook to this repo. Make sure to `commit` your progress throughout the day, and `push` your progress at the end of each day. Please note that you will not get credit for this item if you only `commit` and `push` once to the repo.
